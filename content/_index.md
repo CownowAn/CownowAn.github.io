@@ -222,13 +222,12 @@ sections:
           url: 'https://www.cs.ucla.edu/'
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-04-01'
+          date_start: '2024-03-01'
           description: ''
-          icon: 
-          organization: Google
-          organization_url: 'https://edu.google.com/intl/ALL_my/scholarships/google-travel-and-conference-grants/'
-          title: Google Travel Grant for ICLR 2023
-          url: 'https://edu.google.com/intl/ALL_my/scholarships/google-travel-and-conference-grants/'
+          organization: ICLR
+          organization_url: 'https://iclr.cc/'
+          title: Travel Grant for ICLR 2024
+          url: 'https://iclr.cc/'
         - certificate_url: ''
           date_end: ''
           date_start: '2023-07-01'
@@ -239,12 +238,13 @@ sections:
           url: 'https://2023.automl.cc/attend/travel_awards/'
         - certificate_url: ''
           date_end: ''
-          date_start: '2024-03-01'
+          date_start: '2023-04-01'
           description: ''
-          organization: ICLR
-          organization_url: 'https://iclr.cc/'
-          title: Travel Grant for ICLR 2024
-          url: 'https://iclr.cc/'
+          icon: 
+          organization: Google
+          organization_url: 'https://edu.google.com/intl/ALL_my/scholarships/google-travel-and-conference-grants/'
+          title: Google Travel Grant for ICLR 2023
+          url: 'https://edu.google.com/intl/ALL_my/scholarships/google-travel-and-conference-grants/'
     design:
       columns: '2'
   # - block: tag_cloud
