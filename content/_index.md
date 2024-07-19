@@ -318,14 +318,14 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: sohyunan@kaist.ac.kr
+      email: sohyun0423@cs.ucla.edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 85, Hoegi-ro, Dongdaemun-gu
-        city: Seoul
-        region: South Korea
-        postcode: '(02455)'
+        street: 404 Westwood Plaza Suite 277
+        city: Los Angeles
+        region: CA
+        postcode: '(90095)'
         # country: South Korea
         # country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
