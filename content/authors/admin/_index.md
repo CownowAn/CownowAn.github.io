@@ -37,6 +37,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: University of California, Los Angeles (UCLA)
+      year: Sep 2024 - Present
     - course: MS in Artificial Intelligence
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: Aug 2022 - Aug 2024

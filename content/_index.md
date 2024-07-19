@@ -213,6 +213,15 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
+          date_start: '2024-09-23'
+          description: ''
+          icon: 
+          organization: UCLA Computer Science
+          organization_url: 'https://www.cs.ucla.edu/'
+          title: UCLA Computer Science Fellowship, 2024
+          url: 'https://www.cs.ucla.edu/'
+        - certificate_url: ''
+          date_end: ''
           date_start: '2023-04-01'
           description: ''
           icon: google
