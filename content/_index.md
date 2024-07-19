@@ -164,7 +164,7 @@ sections:
         - title: Research Intern
           company: Machine Learning & Artificial Intelligence Lab, KAIST
           company_url: 'https://www.mlai-kaist.com/'
-          company_logo: org-kaist
+          company_logo: # org-kaist
           location: South Korea
           date_start: '2021-04-01'
           date_end: '2021-08-22'
@@ -172,7 +172,7 @@ sections:
         - title: Full-time Engineer
           company: Samsung Electronics
           company_url: 'https://semiconductor.samsung.com/'
-          company_logo: org-samsung
+          company_logo: # org-samsung
           location: South Korea
           date_start: '2021-08-01'
           date_end: '2022-03-01'
@@ -180,7 +180,7 @@ sections:
         - title: Undergraduate Student Researcher
           company: Neuromorphic Materials and Devices Lab, Seoul National University (SNU)
           company_url: 'https://sites.google.com/view/snu-neuromorphic/home'
-          company_logo: org-snu
+          company_logo: # org-snu
           location: South Korea
           date_start: '2020-01-01'
           date_end: '2020-09-01'
@@ -188,7 +188,7 @@ sections:
         - title: Engineer Intern
           company: SK Hynix
           company_url: 'https://www.skhynix.com/'
-          company_logo: org-skhynix
+          company_logo: # org-skhynix
           location: South Korea
           date_start: '2019-06-01'
           date_end: '2019-08-01'
@@ -224,7 +224,7 @@ sections:
           date_end: ''
           date_start: '2023-04-01'
           description: ''
-          icon: google
+          icon:
           organization: Google
           organization_url: 'https://edu.google.com/intl/ALL_my/scholarships/google-travel-and-conference-grants/'
           title: Google Travel Grant for ICLR 2023
@@ -233,7 +233,7 @@ sections:
           date_end: ''
           date_start: '2023-07-01'
           description: ''
-          icon: automl
+          icon:
           organization: AutoML
           organization_url: 'https://2023.automl.cc/attend/travel_awards/'
           title: Travel Grant for AutoML 2023
@@ -242,7 +242,7 @@ sections:
           date_end: ''
           date_start: '2024-03-01'
           description: ''
-          icon: iclr
+          icon:
           organization: ICLR
           organization_url: 'https://iclr.cc/'
           title: Travel Grant for ICLR 2024
@@ -274,7 +274,7 @@ sections:
           date_end: '2023-06-01'
           date_start: '2022-04-01'
           description: ''
-          icon: google
+          icon: # google
           organization: Google
           organization_url: ''
           title: AutoML with Large-scale Hyperparameter Meta-Learning
@@ -297,7 +297,7 @@ sections:
         - title: SNS TA
           company: KAIST AI
           company_url: 'https://gsai.kaist.ac.kr/'
-          company_logo: org-kaist
+          company_logo: # org-kaist
           location: South Korea
           date_start: '2023-09-01'
           date_end: '2023-12-01'
@@ -305,7 +305,7 @@ sections:
         - title: TA for AI618 Generative Model and Unsupervised Learning
           company: KAIST AI
           company_url: 'https://gsai.kaist.ac.kr/'
-          company_logo: org-kaist
+          company_logo: # org-kaist
           location: South Korea
           date_start: '2023-03-01'
           date_end: '2023-06-01'
