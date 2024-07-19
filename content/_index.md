@@ -127,14 +127,14 @@ sections:
     id: publications
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      # filters:
+      #   folders:
+      #     - publication
+        # exclude_featured: true
     design:
       columns: '2'
       view: citation
@@ -224,7 +224,6 @@ sections:
           date_end: ''
           date_start: '2023-04-01'
           description: ''
-          # icon: 
           organization: Google
           organization_url: 'https://edu.google.com/intl/ALL_my/scholarships/google-travel-and-conference-grants/'
           title: Google Travel Grant for ICLR 2023
@@ -233,7 +232,6 @@ sections:
           date_end: ''
           date_start: '2023-07-01'
           description: ''
-          # icon: 
           organization: AutoML
           organization_url: 'https://2023.automl.cc/attend/travel_awards/'
           title: Travel Grant for AutoML 2023
@@ -242,7 +240,6 @@ sections:
           date_end: ''
           date_start: '2024-03-01'
           description: ''
-          # icon: 
           organization: ICLR
           organization_url: 'https://iclr.cc/'
           title: Travel Grant for ICLR 2024
