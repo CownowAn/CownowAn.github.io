@@ -224,6 +224,7 @@ sections:
           date_end: ''
           date_start: '2023-04-01'
           description: ''
+          icon: 
           organization: Google
           organization_url: 'https://edu.google.com/intl/ALL_my/scholarships/google-travel-and-conference-grants/'
           title: Google Travel Grant for ICLR 2023
