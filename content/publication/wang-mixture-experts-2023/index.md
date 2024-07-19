@@ -19,5 +19,5 @@ tags:
 - Multiple-of-Experts
 links:
 - name: PDF
-  url: https://openreview.net/pdf?id=edHLN40DWu
+  url: https://arxiv.org/abs/2407.00256
 ---

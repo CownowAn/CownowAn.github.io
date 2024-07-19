@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MS student at KAIST AI
+role: PhD student at UCLA
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KAIST AI
-    url: https://gsai.kaist.ac.kr/
+  - name: UCLA CS
+    url: https://www.cs.ucla.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include effective and efficient data-driven search methods.
