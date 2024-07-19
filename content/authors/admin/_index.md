@@ -33,6 +33,7 @@ interests:
   - Generative Models
   - Large Language Models
   - AutoML / Meta-learning
+  - Optimization
 
 # Education to show in About widget
 education:
@@ -119,7 +120,11 @@ highlight_name: true
 ---
 
 <!-- I am a second-year MS student in Machine Learning & Artificial Intelligence Lab, KAIST AI. I am supervised by Prof. Sung Ju Hwang. -->
-I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST AI.
+I'm a Ph.D. student in the <a href="https://web.cs.ucla.edu/~chohsieh/index.html" style="color: #7289da; text-decoration:none">**Computational Machine Learning Group**</a> at UCLA, under the supervision of Prof. <a href="https://web.cs.ucla.edu/~chohsieh/index.html" style="color: #7289da; text-decoration:none">**Cho-Jui Hsieh**</a>. Previously, I was an M.S. student in the <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) Lab**</a> at KAIST AI, supervised by Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration:none">**Sung Ju Hwang**</a>.
+
+I am interested in developing machine learning algorithms that can efficiently solve tasks using various optimization techniques, as well as ensuring that these algorithms can be applied to real-world situations.
+
+
 {style="text-align: justify;"}
 
 ## Recent News
