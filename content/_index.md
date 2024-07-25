@@ -218,7 +218,7 @@ sections:
           icon: 
           organization: UCLA Computer Science
           organization_url: 'https://www.cs.ucla.edu/'
-          title: UCLA Computer Science Fellowship, 2024
+          title: UCLA Computer Science Departmental Award, 2024
           url: 'https://www.cs.ucla.edu/'
         - certificate_url: ''
           date_end: ''
