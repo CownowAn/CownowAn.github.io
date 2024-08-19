@@ -3,7 +3,7 @@ title: Optimal Neural Architecture Generation with Diffusion Models
 authors:
 - Sohyun An
 date: '2024-06-10'
-publishDate: '2024-06-10T13:06:13.827525Z'
+publishDate: '2024-02-27T13:06:13.794546Z'
 publication_types:
 - manuscript
 publication: '*KAIST Master's Thesis 2024*'
