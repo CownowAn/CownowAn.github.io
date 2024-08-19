@@ -216,9 +216,9 @@ sections:
           date_start: '2024-09-23'
           description: ''
           icon: 
-          organization: UCLA Computer Science
+          organization: UCLA
           organization_url: 'https://www.cs.ucla.edu/'
-          title: UCLA Computer Science Departmental Award, 2024
+          title: UCLA Samueli Dean’s Graduate Fellowship, 2024
           url: 'https://www.cs.ucla.edu/'
         - certificate_url: ''
           date_end: ''
