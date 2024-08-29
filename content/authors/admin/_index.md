@@ -30,10 +30,9 @@ bio: My research interests include effective and efficient data-driven search me
 # Interests to show in About widget
 interests:
   # - Geometric Deep Learning
-  - Generative Models
-  - Large Language Models
+  - Generative Models / LLMs
+  - Search / Optimization
   - AutoML / Meta-learning
-  - Optimization
 
 # Education to show in About widget
 education:
@@ -122,7 +121,7 @@ highlight_name: true
 <!-- I am a second-year MS student in Machine Learning & Artificial Intelligence Lab, KAIST AI. I am supervised by Prof. Sung Ju Hwang. -->
 I'm a Ph.D. student in the <a href="https://web.cs.ucla.edu/~chohsieh/index.html" style="color: #7289da; text-decoration:none">**Computational Machine Learning Group**</a> at UCLA, under the supervision of Prof. <a href="https://web.cs.ucla.edu/~chohsieh/index.html" style="color: #7289da; text-decoration:none">**Cho-Jui Hsieh**</a>. Previously, I was an M.S. student in the <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) Lab**</a> at KAIST AI, supervised by Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration:none">**Sung Ju Hwang**</a>.
 
-I am interested in developing machine learning algorithms that can efficiently solve tasks using various optimization techniques, as well as ensuring that these algorithms can be applied to real-world situations.
+I am interested in developing machine learning algorithms to foster the AI-based application ecosystem. I believe this goal can be achieved by efficiently & effectively solving tasks using various search and optimization techniques within a defined search space, while also ensuring that these algorithms are applicable to real-world scenarios.
 
 
 {style="text-align: justify;"}
