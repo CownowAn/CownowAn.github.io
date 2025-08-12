@@ -269,32 +269,41 @@ sections:
   #     title: Research Interests
   #   design:
   #     columns: '2'
-  - block: accomplishments
-    id: projects
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      # title: 'Accomplish&shy;ments'
-      title: 'Projects'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: '2023-06-01'
-          date_start: '2022-04-01'
-          description: ''
-          icon: 
-          organization: Google
-          organization_url: ''
-          title: AutoML with Large-scale Hyperparameter Meta-Learning
-          url: ''
-    design:
-      columns: '2'
+  # - block: accomplishments
+  #   id: projects
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     # title: 'Accomplish&shy;ments'
+  #     title: 'Projects'
+  #     subtitle:
+  #     # Date format: https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - certificate_url: ''
+  #         date_end: '2024-06-01'
+  #         date_start: '2023-09-01'
+  #         description: ''
+  #         icon: 
+  #         organization: Google
+  #         organization_url: ''
+  #         title: Samsung Advanced Institute of Technology
+  #         url: ''
+  #       - certificate_url: ''
+  #         date_end: '2023-09-01'
+  #         date_start: '2022-04-01'
+  #         description: ''
+  #         icon: 
+  #         organization: Google
+  #         organization_url: ''
+  #         title: AutoML with Large-scale Hyperparameter Meta-Learning
+  #         url: ''
+  #   design:
+  #     columns: '2'
   - block: experience
     id: ta_experience
     content:

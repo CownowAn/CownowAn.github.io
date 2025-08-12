@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student at UCLA
+role: CS Ph.D. student at UCLA
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,8 +30,8 @@ bio: My research interests include effective and efficient data-driven search me
 # Interests to show in About widget
 interests:
   # - Geometric Deep Learning
-  - Generative Models / LLMs
-  - Search / Optimization
+  - Generative Models / (M)LLMs
+  - Optimization & Search Algorithm
   - AutoML / Meta-learning
 
 # Education to show in About widget
