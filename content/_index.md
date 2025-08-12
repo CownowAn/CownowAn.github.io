@@ -161,14 +161,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Scientist Intern
+          company: Meta, GenAI
+          company_url: 'https://ai.meta.com/'
+          company_logo: # org-kaist
+          location: Menlo Park, CA
+          date_start: '2025-06-16'
+          date_end: '2025-09-19'
         - title: Research Intern
           company: Machine Learning & Artificial Intelligence Lab, KAIST
           company_url: 'https://www.mlai-kaist.com/'
           company_logo: # org-kaist
           location: South Korea
-          date_start: '2021-04-01'
-          date_end: '2021-08-22'
-          description: Conducted research on AutoML, Neural Architecture Search, and Meta-learning.
+          date_start: '2022-04-01'
+          date_end: '2022-08-22'
+          <!-- description: Conducted research on AutoML, Neural Architecture Search, and Meta-learning. -->
         - title: Full-time Engineer
           company: Samsung Electronics
           company_url: 'https://semiconductor.samsung.com/'
@@ -176,7 +183,7 @@ sections:
           location: South Korea
           date_start: '2021-08-01'
           date_end: '2022-03-01'
-          description: Worked on Advanced Packaging of High Bandwidth Memory (HBM).
+          <!-- description: Worked on Advanced Packaging of High Bandwidth Memory (HBM). -->
         - title: Undergraduate Student Researcher
           company: Neuromorphic Materials and Devices Lab, Seoul National University (SNU)
           company_url: 'https://sites.google.com/view/snu-neuromorphic/home'
@@ -184,7 +191,7 @@ sections:
           location: South Korea
           date_start: '2020-01-01'
           date_end: '2020-09-01'
-          description: Conducted research on 'The Effect of Resistance Drift of Phase Change Memory on Artificial Neural Networks.
+          <!-- description: Conducted research on 'The Effect of Resistance Drift of Phase Change Memory on Artificial Neural Networks. -->
         - title: Engineer Intern
           company: SK Hynix
           company_url: 'https://www.skhynix.com/'
@@ -192,7 +199,7 @@ sections:
           location: South Korea
           date_start: '2019-06-01'
           date_end: '2019-08-01'
-          description: Worked on DRAM circuit design at Tech Core Design Team.
+          <!-- description: Worked on DRAM circuit design at Tech Core Design Team. -->
     design:
       columns: '2'
   # - block: accomplishments
@@ -236,6 +243,15 @@ sections:
           organization_url: 'https://2023.automl.cc/attend/travel_awards/'
           title: Travel Grant for AutoML 2023
           url: 'https://2023.automl.cc/attend/travel_awards/'
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-05-01'
+          description: ''
+          icon: 
+          organization: ICLR
+          organization_url: 'https://iclr.cc/'
+          title: Spotlight for ICLR 2023
+          url: 'https://iclr.cc/virtual/2023/oral/12673'
         - certificate_url: ''
           date_end: ''
           date_start: '2023-04-01'
