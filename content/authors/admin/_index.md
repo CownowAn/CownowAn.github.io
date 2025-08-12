@@ -121,15 +121,15 @@ highlight_name: true
 <!-- I am a second-year MS student in Machine Learning & Artificial Intelligence Lab, KAIST AI. I am supervised by Prof. Sung Ju Hwang. -->
 I'm a Ph.D. student in the <a href="https://web.cs.ucla.edu/~chohsieh/index.html" style="color: #7289da; text-decoration:none">**Computational Machine Learning Group**</a> at UCLA, under the supervision of Prof. <a href="https://web.cs.ucla.edu/~chohsieh/index.html" style="color: #7289da; text-decoration:none">**Cho-Jui Hsieh**</a>. Previously, I was an M.S. student in the <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) Lab**</a> at KAIST AI, supervised by Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration:none">**Sung Ju Hwang**</a>.
 
-I am interested in developing machine learning algorithms to foster the AI-based application ecosystem. I believe this goal can be achieved by efficiently & effectively solving tasks using various search and optimization techniques within a defined search space, while also ensuring that these algorithms are applicable to real-world scenarios.
+I am passionate about democratizing AI by removing barriers of computation, data, expertise, and representation. My research spans efficient model design, automated prompt optimization, and reducing representation gaps across linguistic variations, producing methods that reduce costs, work in label-scarce settings, and deliver consistent performance for all users. Ultimately, I aim to make advanced AI universally accessible and adaptable to each individual’s unique needs.
 
 
 {style="text-align: justify;"}
 
-## Recent News
+<!-- ## Recent News
 - *May 2024* : 🎉 One paper accepted to ICML 2024.
 - *Mar 2024* : ✈️ Travel Grant for ICLR 2024 from ICLR Organizers.
 - *Jan 2024* : 🎉 One paper accepted to ICLR 2024.
 - *Jul 2023* : ✈️ Travel Grant for AutoML 2023 from AutoML Organizers.
 - *Apr 2023* : ✈️ Google Travel Grant for ICLR 2023 from Google.
-- *Jan 2023* : 🎉 One paper accepted to ICLR 2023 as Notable-top-25% - Spotlight Presentation.
+- *Jan 2023* : 🎉 One paper accepted to ICLR 2023 as Notable-top-25% - Spotlight Presentation. -->
