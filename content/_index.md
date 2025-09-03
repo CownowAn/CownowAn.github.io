@@ -162,7 +162,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Scientist Intern
-          company: Meta, GenAI
+          company: Meta, Meta Superintelligence Labs Search
           company_url: 'https://ai.meta.com/'
           company_logo: # org-kaist
           location: Menlo Park, CA
