@@ -20,4 +20,6 @@ tags:
 links:
 - name: Paper
   url: https://arxiv.org/abs/2407.00256
+- name: Code
+  url: https://github.com/ruocwang/mixture-of-prompts
 ---
