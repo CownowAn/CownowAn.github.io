@@ -31,6 +31,6 @@ tags:
 - Neural Architecture Search
 - Knowledge Distillation
 links:
-- name: PDF
+- name: Paper
   url: https://openreview.net/pdf?id=3D2Qz9y001S
 ---

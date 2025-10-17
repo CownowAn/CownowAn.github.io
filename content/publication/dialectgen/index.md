@@ -9,8 +9,8 @@ authors:
 - Cho-Jui Hsieh
 - Kai-Wei Chang
 - Nanyun Peng
-date: '2025-06-01'
-publishDate: '2025-06-01T13:06:13.819600Z'
+date: '2025-10-16'
+publishDate: '2025-10-16T13:06:13.819600Z'
 publication_types:
 - manuscript
 publication: '*Under Review*'
@@ -23,6 +23,8 @@ tags:
 - Dialects
 - Benchmark Dataset
 links:
-- name: PDF
-  url: https://drive.google.com/file/d/1LEQHkymeQb1GXlMJcqw9HgryAGupUdhg/view?usp=sharing
+- name: Paper
+  url: https://arxiv.org/abs/2510.14949
+- name: Code
+  url: https://github.com/DialectGen/DialectGen
 ---

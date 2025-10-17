@@ -34,7 +34,7 @@ tags:
 - Knowledge Distillation
 - Meta-learning
 links:
-- name: PDF
+- name: Paper
   url: https://openreview.net/pdf?id=SEh5SfEQtqB
 - name: Code
   url: https://github.com/CownowAn/DaSS

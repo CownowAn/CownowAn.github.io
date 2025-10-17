@@ -18,7 +18,7 @@ tags:
 - Prompt Optimization
 - Fine-grained Classificatoin
 links:
-- name: PDF
+- name: Paper
   url: https://arxiv.org/abs/2506.03195
 - name: Code
   url: https://github.com/yq-hong/AutoSEP

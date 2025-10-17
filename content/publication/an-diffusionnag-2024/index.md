@@ -20,7 +20,7 @@ tags:
 - Bayesian Optimization
 - Meta-learning
 links:
-- name: PDF
+- name: Paper
   url: https://openreview.net/pdf?id=dyG2oLJYyX
 - name: Code
   url: https://github.com/CownowAn/DiffusionNAG

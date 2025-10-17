@@ -19,6 +19,6 @@ tags:
 - Large Reasoning Models
 - Overthinking
 links:
-- name: PDF
+- name: Paper
   url: https://arxiv.org/abs/2505.21765
 ---

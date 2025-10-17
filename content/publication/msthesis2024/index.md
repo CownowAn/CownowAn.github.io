@@ -15,6 +15,6 @@ tags:
 - Diffusion Models
 - Graphs
 links:
-- name: PDF
+- name: Paper
   url: https://o365kaist-my.sharepoint.com/:b:/g/personal/thgus4425_office_kaist_ac_kr/EZKqmT5niMlBstvliRl19zcB8z6joEQpdgAcIxwj3YwInw?e=18e7P1
 ---

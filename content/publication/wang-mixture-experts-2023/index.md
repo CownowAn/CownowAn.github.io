@@ -18,6 +18,6 @@ tags:
 - Prompt Optimization
 - Multiple-of-Experts
 links:
-- name: PDF
+- name: Paper
   url: https://arxiv.org/abs/2407.00256
 ---
