@@ -30,9 +30,10 @@ bio: My research interests include effective and efficient data-driven search me
 # Interests to show in About widget
 interests:
   # - Geometric Deep Learning
-  - Generative Models / (M)LLMs
-  - Optimization & Search Algorithm
-  - AutoML / Meta-learning
+  - Reasoning-Centric (M)LLMs
+  - Search-Augmented Intelligence
+  - Efficient Learning and Optimization
+  - Robust Multimodal Generalization
 
 # Education to show in About widget
 education:
@@ -112,7 +113,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Sohyun_An.pdf
+    link: uploads/CV__Sohyun_An.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -121,13 +122,19 @@ highlight_name: true
 <!-- I am a second-year MS student in Machine Learning & Artificial Intelligence Lab, KAIST AI. I am supervised by Prof. Sung Ju Hwang. -->
 I'm a Ph.D. student in the <a href="https://web.cs.ucla.edu/~chohsieh/index.html" style="color: #7289da; text-decoration:none">**Computational Machine Learning Group**</a> at UCLA, under the supervision of Prof. <a href="https://web.cs.ucla.edu/~chohsieh/index.html" style="color: #7289da; text-decoration:none">**Cho-Jui Hsieh**</a>. Previously, I was an M.S. student in the <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) Lab**</a> at KAIST AI, supervised by Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration:none">**Sung Ju Hwang**</a>.
 
-I am passionate about democratizing AI by removing barriers of computation, data, expertise, and representation. My research spans efficient model design, automated prompt optimization, and reducing representation gaps across linguistic variations, producing methods that reduce costs, work in label-scarce settings, and deliver consistent performance for all users. Ultimately, I aim to make advanced AI universally accessible and adaptable to each individual’s unique needs.
+My research aims to make (multimodal) large language models more reliable, efficient, and adaptable when reasoning over real-world information. I focus on enabling models to strategically think and incorporate external knowledge to better interact with complex environments across different modalities.
+
+My current research focuses include:
+- **Reasoning-Centric (M)LLMs:** Improving how models engage in effective and trustworthy reasoning within dynamic contexts.
+- **Search-Augmented Intelligence:** Developing methods that enable models to leverage external information for more accurate and grounded intelligence.
+- **Efficient Learning and Optimization:** Designing general methodologies that enable (M)LLMs to learn, adapt, and reason efficiently without compromising reliability or depth.
+- **Robust Multimodal Generalization:** Developing methods that allow multimodal models to reliably generalize over information within complex and unpredictable real-world environments.
 
 
 {style="text-align: justify;"}
 
 <!-- ## Recent News
-- *May 2024* : 🎉 One paper accepted to ICML 2024.
+
 - *Mar 2024* : ✈️ Travel Grant for ICLR 2024 from ICLR Organizers.
 - *Jan 2024* : 🎉 One paper accepted to ICLR 2024.
 - *Jul 2023* : ✈️ Travel Grant for AutoML 2023 from AutoML Organizers.
