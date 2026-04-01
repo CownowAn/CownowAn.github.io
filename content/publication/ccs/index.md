@@ -1,0 +1,27 @@
+---
+title: 'Cycle-Consistent Search: Gold-Free Reinforcement Learning for Search Agents'
+authors:
+- Sohyun An
+- Shuibenyang Yuan
+- Hayeon Lee
+- Cho-Jui Hsieh
+- Alexander Min
+date: '2026-03-21'
+publishDate: '2026-03-21T00:00:00.000000Z'
+publication_types:
+- manuscript
+publication: '*arXiv*'
+# doi: 10.48550/arXiv.2305.16943
+abstract: 'Reinforcement Learning (RL) has shown strong potential for optimizing search agents in complex information retrieval tasks. However, existing approaches predominantly rely on gold supervision, such as ground-truth answers, which is difficult to scale. To address this limitation, we propose Cycle-Consistent Search (CCS), a gold-supervision-free framework for training search agents, inspired by cycle-consistency techniques from unsupervised machine translation and image-to-image translation. Our key hypothesis is that an optimal search trajectory, unlike insufficient or irrelevant ones, serves as a lossless encoding of the question`s intent. Consequently, a high-quality trajectory should preserve the information required to accurately reconstruct the original question, thereby inducing a reward signal for policy optimization. However, naive cycle-consistency objectives are vulnerable to information leakage, as reconstruction may rely on superficial lexical cues rather than the underlying search process. To reduce this effect, we apply information bottlenecks, including exclusion of the final response and named entity recognition (NER) masking of search queries. These constraints force reconstruction to rely on retrieved observations together with the structural scaffold, ensuring that the resulting reward signal reflects informational adequacy rather than linguistic redundancy. Experiments on question-answering benchmarks show that CCS achieves performance comparable to supervised baselines while outperforming prior methods that do not rely on gold supervision. These results suggest that CCS provides a scalable training paradigm for training search agents in settings where gold supervision is unavailable.'
+tags:
+- LLM
+- Agents
+- RL
+- Search
+- Deep Research
+links:
+- name: Paper
+  url: https://arxiv.org/abs/2603.22341
+- name: Code
+  url: https://github.com/pwnhyo/T-MAP
+---
