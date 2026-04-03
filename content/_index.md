@@ -317,6 +317,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: TA for CS31 Introduction to Computer Science
+          company: UCLA
+          company_url: 'https://www.cs.ucla.edu/'
+          company_logo: # org-kaist
+          location: Los Angeles, CA
+          date_start: '2026-03-25'
+          date_end: '2026-06-12'
+          description: ''
+        - title: TA for CSM146 Introduction to Machine Learning
+          company: UCLA
+          company_url: 'https://www.cs.ucla.edu/'
+          company_logo: # org-kaist
+          location: Los Angeles, CA
+          date_start: '2026-01-02'
+          date_end: '2026-03-20'
+          description: ''
         - title: SNS TA
           company: KAIST AI
           company_url: 'https://gsai.kaist.ac.kr/'
