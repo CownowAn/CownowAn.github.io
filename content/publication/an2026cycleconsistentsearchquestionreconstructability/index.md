@@ -1,5 +1,5 @@
 ---
-title: 'Cycle-Consistent Search: Gold-Free Reinforcement Learning for Search Agents'
+title: 'Cycle-Consistent Search: Question Reconstructability as a Proxy Reward for Search Agent Training'
 authors:
 - Sohyun An
 - Shuibenyang Yuan
@@ -7,7 +7,7 @@ authors:
 - Cho-Jui Hsieh
 - Alexander Min
 date: '2026-03-21'
-publishDate: '2026-03-21T00:00:00.000000Z'
+publishDate: '2026-04-14T00:00:00.000000Z'
 publication_types:
 - manuscript
 publication: '*arXiv*'
@@ -19,9 +19,8 @@ tags:
 - RL
 - Search
 - Deep Research
+- Tool Use
 links:
 - name: Paper
-  url: https://arxiv.org/abs/2603.22341
-- name: Code
-  url: https://github.com/pwnhyo/T-MAP
+  url: https://arxiv.org/abs/2604.12967
 ---
