@@ -162,6 +162,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Scientist Intern
+          company: Meta, Meta Reality Labs Research
+          company_url: 'https://ai.meta.com/'
+          company_logo: # org-kaist
+          location: Birlingame, CA
+          date_start: '2025-06-15'
+          date_end: '2025-09-18'
+        - title: Research Scientist Intern
           company: Meta, Meta Superintelligence Labs Search
           company_url: 'https://ai.meta.com/'
           company_logo: # org-kaist
