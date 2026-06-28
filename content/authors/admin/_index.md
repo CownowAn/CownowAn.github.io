@@ -25,15 +25,13 @@ organizations:
     url: https://www.cs.ucla.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include effective and efficient data-driven search methods.
+# bio: My research interests include effective and efficient data-driven search methods.
 
 # Interests to show in About widget
-interests:
-  # - Geometric Deep Learning
-  - Reasoning-Centric (M)LLMs
-  - Search-Augmented Intelligence
-  - Efficient Learning and Optimization
-  - Robust Multimodal Generalization
+# interests:
+#   - (Multimodal) Large Language Models
+#   - Tool-Augmented Intelligence
+#   - Efficient Learning and Optimization
 
 # Education to show in About widget
 education:
@@ -122,16 +120,16 @@ highlight_name: true
 <!-- I am a second-year MS student in Machine Learning & Artificial Intelligence Lab, KAIST AI. I am supervised by Prof. Sung Ju Hwang. -->
 I'm a Ph.D. student in the <a href="https://web.cs.ucla.edu/~chohsieh/index.html" style="color: #7289da; text-decoration:none">**Computational Machine Learning Group**</a> at UCLA, under the supervision of Prof. <a href="https://web.cs.ucla.edu/~chohsieh/index.html" style="color: #7289da; text-decoration:none">**Cho-Jui Hsieh**</a>. Previously, I was an M.S. student in the <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) Lab**</a> at KAIST AI, supervised by Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration:none">**Sung Ju Hwang**</a>.
 
-My research aims to make (multimodal) large language models more reliable, efficient, and adaptable when reasoning over real-world information. I focus on enabling models to strategically think and incorporate external knowledge to better interact with complex environments across different modalities.
+<!-- My research aims to make (multimodal) large language models more reliable, efficient, and adaptable when reasoning over real-world information. I focus on enabling models to strategically think and incorporate external knowledge to better interact with complex environments across different modalities.
 
 My current research focuses include:
 - **Reasoning-Centric (M)LLMs:** Improving how models engage in effective and trustworthy reasoning within dynamic contexts.
 - **Search-Augmented Intelligence:** Developing methods that enable models to leverage external information for more accurate and grounded intelligence.
 - **Efficient Learning and Optimization:** Designing general methodologies that enable (M)LLMs to learn, adapt, and reason efficiently without compromising reliability or depth.
-- **Robust Multimodal Generalization:** Developing methods that allow multimodal models to reliably generalize over information within complex and unpredictable real-world environments.
+- **Robust Multimodal Generalization:** Developing methods that allow multimodal models to reliably generalize over information within complex and unpredictable real-world environments. -->
 
 
-{style="text-align: justify;"}
+<!-- {style="text-align: justify;"} -->
 
 <!-- ## Recent News
 
