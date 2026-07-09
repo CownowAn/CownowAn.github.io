@@ -22,4 +22,6 @@ links:
   url: https://arxiv.org/abs/2606.11189
 - name: Project
   url: https://txie1.github.io/Target-SFT/
+- name: Code
+  url: https://github.com/txie1/Target-SFT
 ---
