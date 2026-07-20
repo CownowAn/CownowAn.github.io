@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CS Ph.D. student at UCLA
+role: CS Ph.D. Candidate at UCLA
 
 # Organizations/Affiliations to show in About widget
 organizations:
