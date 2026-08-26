@@ -166,8 +166,8 @@ sections:
           company_url: 'https://ai.meta.com/'
           company_logo: # org-kaist
           location: Birlingame, CA
-          date_start: '2025-06-15'
-          date_end: '2025-09-18'
+          date_start: '2026-06-15'
+          date_end: '2026-09-18'
         - title: Research Scientist Intern
           company: Meta, Meta Superintelligence Labs Search
           company_url: 'https://ai.meta.com/'
